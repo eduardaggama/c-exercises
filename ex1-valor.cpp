@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 int main (){
+  
 int valor;
 
 printf("digite um valor \n");

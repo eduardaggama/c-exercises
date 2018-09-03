@@ -2,7 +2,6 @@
 #include <stdlib.h>
 
 int main (void){
-
 int anos, salario;
 
 printf("a quantos anos tu trampa aqui?\n");
